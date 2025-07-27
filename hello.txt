@@ -1,3 +1,7 @@
 My change by Yoon Mie Mie Htun
-Another line from local
+<<<<<<< HEAD
+This line is a merged version of both changes
 This line was changed locally
+=======
+This line was changed directly on GitHub
+>>>>>>> 366766d28301717f9467b5e2dac52056dde23b59
